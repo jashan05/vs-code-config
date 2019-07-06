@@ -4,7 +4,7 @@
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on", 
     "workbench.colorCustomizations": {
-      "statusBar.foreground": "#00ffb3",
+      "statusBar.foreground": "#ffffff",
       "sideBarSectionHeader.foreground":"#ceebd3",
       "sideBarSectionHeader.background": "#293c3f", 
       "editor.selectionBackground": "#a9b0b383",
@@ -24,5 +24,6 @@
           }
       }]
   },
-  "files.enableTrash": false
+"files.enableTrash": false,
+"editor.detectIndentation": false
 }
