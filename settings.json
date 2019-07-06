@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all", 
+    "workbench.colorCustomizations": {
+      "editor.selectionBackground": "#0f809c",
+      "editor.selectionHighlightBackground": "#0f809c"
+  },
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [{
+		"scope": [
+			"punctuation.definition.comment",
+			"comment.block",
+			"comment.line",
+			"comment.block.documentation"
+		],
+          "settings": {
+            "fontStyle": "italic",
+            "foreground": "#2b9657",
+          }
+      }]
+  }
+}
