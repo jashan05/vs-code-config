@@ -1,8 +1,11 @@
 {
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "vscode-icons",
-    "editor.renderWhitespace": "all", 
+	"editor.renderWhitespace": "all", 
     "workbench.colorCustomizations": {
+      "statusBar.foreground": "#00ffb3",
+      "sideBarSectionHeader.foreground":"#ceebd3",
+      "sideBarSectionHeader.background": "#293c3f", 
       "editor.selectionBackground": "#0f809c",
       "editor.selectionHighlightBackground": "#0f809c"
   },
