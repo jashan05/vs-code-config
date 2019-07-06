@@ -1,13 +1,14 @@
 {
     "workbench.colorTheme": "Material Theme Darker High Contrast",
-    "workbench.iconTheme": "vscode-icons",
-	"editor.renderWhitespace": "all", 
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on", 
     "workbench.colorCustomizations": {
       "statusBar.foreground": "#00ffb3",
       "sideBarSectionHeader.foreground":"#ceebd3",
       "sideBarSectionHeader.background": "#293c3f", 
-      "editor.selectionBackground": "#0f809c",
-      "editor.selectionHighlightBackground": "#0f809c"
+      "editor.selectionBackground": "#118baa83",
+      "editor.selectionHighlightBackground": "#118baa83"
   },
     "editor.tokenColorCustomizations": {
       "textMateRules": [{
@@ -19,8 +20,9 @@
 		],
           "settings": {
             "fontStyle": "italic",
-            "foreground": "#2b9657",
+            "foreground": "#508d69",
           }
       }]
-  }
+  },
+  "files.enableTrash": false
 }
