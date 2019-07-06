@@ -7,8 +7,8 @@
       "statusBar.foreground": "#00ffb3",
       "sideBarSectionHeader.foreground":"#ceebd3",
       "sideBarSectionHeader.background": "#293c3f", 
-      "editor.selectionBackground": "#118baa83",
-      "editor.selectionHighlightBackground": "#118baa83"
+      "editor.selectionBackground": "#a9b0b383",
+      "editor.selectionHighlightBackground": "#a9b0b383"
   },
     "editor.tokenColorCustomizations": {
       "textMateRules": [{
@@ -20,7 +20,7 @@
 		],
           "settings": {
             "fontStyle": "italic",
-            "foreground": "#508d69",
+            "foreground": "#3caf6c",
           }
       }]
   },
